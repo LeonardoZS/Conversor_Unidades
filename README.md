@@ -18,4 +18,4 @@ A figura abaixo ilustra o "front-end" do aplicativo.
 <img src="https://user-images.githubusercontent.com/65432723/207856722-b5547ccf-0e42-4ddf-a602-08cf08491594.png" width="300px" />
 </div>
 
-A conversão de unidades irá acontecer quando clicado no botão "Converter!". 
+A conversão de unidades irá acontecer quando o usuário clicar no botão "Converter!". 
